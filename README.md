@@ -87,4 +87,10 @@ Hasil dari proses agregasi tabel adalah sebagai berikut.
 </p>
 
 ### b. Visualisasi Data Dengan Google Looker
-Untuk melihat hasil visualisasi data yang telah diimpor pada BigQuery dapat [klik di sini](https://instagram.com/putridwids)
+Untuk melihat hasil visualisasi data yang telah diimpor pada BigQuery dapat [klik di sini](https://lookerstudio.google.com/reporting/f8c45046-f80e-42e4-848a-2f188f06b4d2)
+
+<p align="center">
+  <img width="781" height="588" alt="Screenshot 2025-12-24 at 20 16 22" src="https://github.com/user-attachments/assets/013b2712-6c1f-46b8-a476-a06d11bdcce6" width = "250"/>
+</p>
+
+
